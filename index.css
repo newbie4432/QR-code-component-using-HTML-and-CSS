@@ -1,0 +1,42 @@
+#div1{
+    height:500px;
+    width:80%;
+    background-color:rgb(206, 216, 228);
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:30px;
+    border-radius:15px;
+}
+#div2{
+    width:250px;
+    height:380px;
+    background-color:white;
+    border-radius:15px;
+}
+#img1{
+    width:90%;
+    height:56%;
+    position:relative;
+   left:12px;
+   top:10px;
+   border-radius:15px;
+}
+#div3 h1{
+    font-size:medium;
+    display:inline-block;
+    width:200px;
+    margin-left:35px;
+    margin-bottom:5px;
+    font-family:"outfit";
+}
+#div3 p{
+    font-family: "outfit";
+    font-size:10px;
+    display:block;
+    width:186px;
+    text-align:center;
+    margin-left:29px;
+}
